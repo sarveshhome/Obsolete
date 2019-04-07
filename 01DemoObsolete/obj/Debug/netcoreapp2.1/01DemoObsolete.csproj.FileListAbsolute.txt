@@ -1,0 +1,11 @@
+E:\sarvesh\C#\01DemoObsolete\bin\Debug\netcoreapp2.1\01DemoObsolete.deps.json
+E:\sarvesh\C#\01DemoObsolete\bin\Debug\netcoreapp2.1\01DemoObsolete.runtimeconfig.json
+E:\sarvesh\C#\01DemoObsolete\bin\Debug\netcoreapp2.1\01DemoObsolete.runtimeconfig.dev.json
+E:\sarvesh\C#\01DemoObsolete\bin\Debug\netcoreapp2.1\01DemoObsolete.dll
+E:\sarvesh\C#\01DemoObsolete\bin\Debug\netcoreapp2.1\01DemoObsolete.pdb
+E:\sarvesh\C#\01DemoObsolete\obj\Debug\netcoreapp2.1\01DemoObsolete.csprojAssemblyReference.cache
+E:\sarvesh\C#\01DemoObsolete\obj\Debug\netcoreapp2.1\01DemoObsolete.csproj.CoreCompileInputs.cache
+E:\sarvesh\C#\01DemoObsolete\obj\Debug\netcoreapp2.1\01DemoObsolete.AssemblyInfoInputs.cache
+E:\sarvesh\C#\01DemoObsolete\obj\Debug\netcoreapp2.1\01DemoObsolete.AssemblyInfo.cs
+E:\sarvesh\C#\01DemoObsolete\obj\Debug\netcoreapp2.1\01DemoObsolete.dll
+E:\sarvesh\C#\01DemoObsolete\obj\Debug\netcoreapp2.1\01DemoObsolete.pdb
